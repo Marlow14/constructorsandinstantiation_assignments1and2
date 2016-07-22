@@ -1,0 +1,30 @@
+1.
+public Car()
+
+2.
+public Car(string color, int number)
+
+3.
+public Bus(int number)
+
+4.
+
+public HotDog(string condiment1, string condiment2)
+
+5.
+public Aroma(string description)
+
+6.
+public Behavior(boolean answer)
+
+7.
+public Assignment(boolean response)
+
+8.
+public AstronomicalDistance(int value1, int value2)
+
+9.
+public DateTime(long year, int month, in day)
+
+10.
+public Assignment(string bestAnswerYet)

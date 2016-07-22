@@ -1,0 +1,59 @@
+1.
+public Car()
+{
+Car c = new Car
+};
+
+2.
+public Bean(int weight)
+{
+Bean b = new Bean(10)
+};
+
+3.
+public Airplane(long maxDistance)
+{
+Airplane a = new Airplane(100000)
+};
+
+4.
+public Bus(int seats)
+{
+Bus b = new Bus(20)
+};
+
+5.
+public SkiLift(int chairs, float maxSpeed, float maxCapacity)
+{
+SkiLift s = new SkiLift(10, 5f, 50f)
+};
+
+6.
+public Gondola(int maxOccupancy)
+{
+Gondola g = new Gondola(6)
+};
+
+7.
+public Data(String[] args)
+{
+Data d = new Data({"yes", "no", "maybe"})
+};
+
+8.
+public CelestialObject(Double distanceFromSol)
+{
+CelestialObject co = new CelestialObject(10.25d)
+};
+
+9.
+publice Sun(Double maxSurfaceTemperature)
+{
+Sun s = new Sun(100000d)
+};
+
+10.
+public Pluto(booleanisPlanetOrNOt)
+{
+Pluto p = new Pluto(true)
+};
